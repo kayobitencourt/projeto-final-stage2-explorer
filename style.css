@@ -89,7 +89,7 @@ footer {
 footer::before {
   content: "";
   position: absolute;
-  background: url("/images/padlock.svg");
+  background: url("./images/padlock.svg");
   top: -30px;
   left: 0px;
   width: 51px;
